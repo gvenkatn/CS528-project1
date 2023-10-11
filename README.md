@@ -42,6 +42,8 @@
     + Execute the below commands        
     +       g++ webserver1.cpp -o server 
            ./server
+    + OR
+    +       g++ webserver1.cpp -o server; ./server
     + Request the following files using the URLs through a browser(client)
     + http://127.0.0.1:52837/home.html
     + http://127.0.0.1:52837/project1-webserver.pdf
@@ -54,6 +56,8 @@
     + Execute the below commands
     +       g++ webserver2.cpp -o server 
            ./server
+    + OR
+    +       g++ webserver2.cpp -o server; ./server
     + Request the following files using the URLs through a browser(client)
     + http://127.0.0.1:52837/home.html
     + http://127.0.0.1:52837/project1-webserver.pdf
