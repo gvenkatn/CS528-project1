@@ -44,7 +44,7 @@
            ./server
     + OR
     +       g++ webserver1.cpp -o server; ./server
-    + Request the following files using the URLs through a browser(client)
++ Request the following files using the URLs through a browser(client)
     + http://127.0.0.1:52837/home.html
     + http://127.0.0.1:52837/project1-webserver.pdf
     + http://127.0.0.1:52837/10mb.pdf
@@ -58,7 +58,7 @@
            ./server
     + OR
     +       g++ webserver2.cpp -o server; ./server
-    + Request the following files using the URLs through a browser(client)
++ Request the following files using the URLs through a browser(client)
     + http://127.0.0.1:52837/home.html
     + http://127.0.0.1:52837/project1-webserver.pdf
     + http://127.0.0.1:52837/10mb.pdf
